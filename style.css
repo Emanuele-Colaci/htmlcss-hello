@@ -1,0 +1,12 @@
+img{
+    height: 200px;
+    display: block;
+    margin-top: 10px;
+}
+
+#bellezza{
+    border: 1px solid red;
+    display: inline;
+    border-radius: 10px;
+    color: red; 
+}
